@@ -18,7 +18,7 @@ float celsius_to_farenheit(float celsius){
 }
 
 
-int main(){
+int main(void){
     float temperature = 0.0f;
     std::cout << "Please enter a Celsius value: ";
     std::cin >> temperature;

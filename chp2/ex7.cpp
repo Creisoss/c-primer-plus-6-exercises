@@ -13,7 +13,7 @@ void display_time(int hours, int minutes){
     std::cout << "Time: " << hours << ":" << minutes << std::endl;
 }
 
-int main(){
+int main(void){
     int hours = 0;
     int minutes = 0;
     std::cout << "Enter the number of hours: ";

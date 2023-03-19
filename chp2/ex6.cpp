@@ -21,7 +21,7 @@ double light_years_to_astronomical_units(double light_years){
     return light_years * LIGHT_YEAR_IN_ASTRONOMICAL_UNITS;
 }
 
-int main(){
+int main(void){
     double light_years = 0.0f;
     std::cout << "Enter the number of light years: ";
     std::cin >> light_years;

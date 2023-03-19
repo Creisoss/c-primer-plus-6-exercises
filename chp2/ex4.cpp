@@ -9,7 +9,7 @@
 
 #define A_YEAR_IN_MONTHS 12
 
-int main(){
+int main(void){
     int age = 0;
     std::cout << "Enter your age: ";
     std::cin >> age;

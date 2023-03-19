@@ -7,7 +7,7 @@
 #define FURLONG_TO_YARD 220
 
 
-int main(){
+int main(void){
     int furlongs = 0;
     std::cout << "How much furlongs: ";
     std::cin >> furlongs;

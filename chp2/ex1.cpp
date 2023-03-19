@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-int main(){
+int main(void){
     std::cout << "Marco Lucas" << std::endl;
     std::cout << "Av Don Régis, 87" << std::endl;
     return 0;

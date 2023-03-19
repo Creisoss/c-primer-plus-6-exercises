@@ -11,16 +11,16 @@
 
 #include <iostream>
 
-void foo(){
+void foo(void){
     std::cout << "Three blind mice" << std::endl;
 }
 
-void bar(){
+void bar(void){
     std::cout << "See how they run" << std::endl;
 }
 
 
-int main(){
+int main(void){
     foo();
     foo();
     bar();
